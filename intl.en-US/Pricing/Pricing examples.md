@@ -42,7 +42,7 @@ Your fees are calculated as follows:
 
 The message is 0.5 KB. Therefore, each message is counted as one message.
 
-Messages sent per month: 1 message/minute \* 60 minutes/hour \* 24 hours/day \* 30 days = 86,400 messages.
+Messages sent per month: 1 message/minute \* 60 minutes/hour \* 24 hours/day \* 30 days = 43,200 messages.
 
 Messages received per month: 10 messages/minute \* 60 minutes/hour \* 24 hours/day \* 30 days = 432,000 messages.
 
